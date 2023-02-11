@@ -1,3 +1,4 @@
+![logo](https://github.com/anjalisharma1798/githubbanner.png)
 # Anjali Sharma
 <h1 align="center">Hi 👋, I'm Anjali Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
